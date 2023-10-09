@@ -1,3 +1,4 @@
 hello git!
 First change!
 Hot fix change!
+hot-fix change before merge
