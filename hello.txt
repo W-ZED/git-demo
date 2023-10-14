@@ -6,3 +6,5 @@ hot-fix change before merge
 Manual Merge！！！
 pull-test!!!
 ssh_pull_test
+ssh_push_test
+
